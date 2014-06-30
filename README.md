@@ -6,3 +6,8 @@
 
 Colors es una aplicacion pensada y diseñada con el objetico de ayudar a personas con el sindrome de Daltonismo, 
  desarrollada para fines academicos en la universiadad catolica andres bello extension guayana
+ 
+Autores
+------
+- Rafael Carlucci ([@icculrac](https://twitter.com/icculrac))
+- Emil Hernandez  ([@emil_hm](https://twitter.com/emil_hm))
