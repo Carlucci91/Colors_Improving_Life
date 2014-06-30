@@ -1,3 +1,6 @@
+ <p align="center"><img src="Colors/res/drawable-xhdpi/ic_launcher.png"></p>
+
+
 <span style="color:red;">Colors Improving Life</span>
 =====================
 
