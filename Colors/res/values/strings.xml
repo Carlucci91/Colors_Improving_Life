@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+    <string name="detector">Detector</string>
+    <string name="colores">Colores</string>
+    <string name="test">Test</string>
+    <string name="info">Informacion</string>
+    <string name="title_activity_info">Informacion</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_paleta">Colores</string>
+    <string name="iniciar">Iniciar Test</string>
+    <string name="title_activity_ishihara">Test</string>
+    <string name="nombrecolor">Color</string>
+    <string name="title_activity_testing">TestingActivity</string>
+    <string name="title_activity_t2">Test</string>
+    <string name="title_activity_t3">Test</string>
+    <string name="title_activity_t4">Test</string>
+    <string name="title_activity_t5">Test</string>
+    <string name="title_activity_t6">Test</string>
+    <string name="title_activity_t7">Test</string>
+    <string name="title_activity_t8">Test</string>
+    <string name="title_activity_t9">Test</string>
+    <string name="title_activity_t11">Test</string>
+    <string name="title_activity_t10">Test</string>
+    <string name="title_activity_t12">Test</string>
+    <string name="title_activity_t13">Test</string>
+    <string name="title_activity_t14">Test</string>
+    <string name="title_activity_t15">Test</string>
+    <string name="title_activity_t17">Test</string>
+    <string name="title_activity_t18">Test</string>
+    <string name="title_activity_t19">Test</string>
+    <string name="title_activity_t16">Test</string>
+    <string name="title_activity_t20">Test</string>
+    <string name="title_activity_t21">Test</string>
+    <string name="title_activity_t22">Test</string>
+    <string name="title_activity_t23">Test</string>
+    <string name="title_activity_t24">Test</string>
+    <string name="title_activity_t25">Test</string>
+    <string name="title_activity_t26">Test</string>
+    <string name="title_activity_t27">Test</string>
+    <string name="title_activity_t28">Test</string>
+    <string name="title_activity_t29">Test</string>
+    <string name="title_activity_t30">Test</string>
+    <string name="title_activity_t31">Test</string>
+    <string name="title_activity_t32">Test</string>
+    <string name="title_activity_t33">Test</string>
+    <string name="title_activity_t34">Test</string>
+    <string name="title_activity_t35">Test</string>
+    <string name="title_activity_t36">Test</string>
+    <string name="title_activity_t37">Test</string>
+    <string name="title_activity_t38">Test</string>
+    <string name="menu">Volver al Menu Principal</string>    
+    
+    
+    <string name="title_activity_resultados">Resultados del Test</string>
+
+</resources>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.colors"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.colors.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.colors.ColorBlobDetectionActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.colors.AyudaActivity"
+            android:label="@string/title_activity_ayuda"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.InfoActivity"
+            android:label="@string/title_activity_info"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.TestActivity"
+            android:label="@string/title_activity_test"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.PaletaActivity"
+            android:label="@string/title_activity_paleta"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.IshiharaActivity"
+            android:label="@string/title_activity_ishihara"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T2Activity"
+            android:label="@string/title_activity_t2"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T3Activity"
+            android:label="@string/title_activity_t3"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T4Activity"
+            android:label="@string/title_activity_t4"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T5Activity"
+            android:label="@string/title_activity_t5" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T6Activity"
+            android:label="@string/title_activity_t6" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T7Activity"
+            android:label="@string/title_activity_t7" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T8Activity"
+            android:label="@string/title_activity_t8" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T9Activity"
+            android:label="@string/title_activity_t9" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T11Activity"
+            android:label="@string/title_activity_t11" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T10Activity"
+            android:label="@string/title_activity_t10" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T12Activity"
+            android:label="@string/title_activity_t12" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T13Activity"
+            android:label="@string/title_activity_t13" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T14Activity"
+            android:label="@string/title_activity_t14" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T15Activity"
+            android:label="@string/title_activity_t15" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T17Activity"
+            android:label="@string/title_activity_t17" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T18Activity"
+            android:label="@string/title_activity_t18" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T19Activity"
+            android:label="@string/title_activity_t19" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T16Activity"
+            android:label="@string/title_activity_t16" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T20Activity"
+            android:label="@string/title_activity_t20" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T21Activity"
+            android:label="@string/title_activity_t21" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T22Activity"
+            android:label="@string/title_activity_t22" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T23Activity"
+            android:label="@string/title_activity_t23" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T24Activity"
+            android:label="@string/title_activity_t24" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T25Activity"
+            android:label="@string/title_activity_t25" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T26Activity"
+            android:label="@string/title_activity_t26" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T27Activity"
+            android:label="@string/title_activity_t27" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T28Activity"
+            android:label="@string/title_activity_t28" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T29Activity"
+            android:label="@string/title_activity_t29" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T30Activity"
+            android:label="@string/title_activity_t30" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T31Activity"
+            android:label="@string/title_activity_t31" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T32Activity"
+            android:label="@string/title_activity_t32" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T33Activity"
+            android:label="@string/title_activity_t33" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T34Activity"
+            android:label="@string/title_activity_t34" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T35Activity"
+            android:label="@string/title_activity_t35" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T36Activity"
+            android:label="@string/title_activity_t36" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T37Activity"
+            android:label="@string/title_activity_t37" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.T38Activity"
+            android:label="@string/title_activity_t38" 
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.colors.ResultadosActivity"
+            android:label="@string/title_activity_resultados" 
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front.autofocus"
+        android:required="false" />
+
+</manifest>
